@@ -1,3 +1,4 @@
 testing
 Issue fixed #PAWK-15
 Can proceed with retest
+also fix #PAWK-23
